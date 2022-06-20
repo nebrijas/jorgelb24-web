@@ -27,5 +27,5 @@ Puntos a resaltar del reportaje:
 - Con ***Ejército irrumpió en el parlamento salvadoreño*** para presionar a los diputados a que le aprobaran un préstamo que utilizaría en materia de seguridad.
 
 ##  Lista de actividades dirigidas ##
--  [Actividad dirigida 1] (ad1.md)
--  [Actividad dirigada 2] (ad2.md)
+- [actividad dirigida 1](ad1.md)
+-  [Actividad dirigada 2](ad2.md)
