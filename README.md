@@ -6,5 +6,6 @@
 
 #### Lista de actividades dirigidas
 
-- 1. [Actividad dirgida 1](ad1.md)
-- 2. [Actividad dirigada 2](ad2.md)
+-[Actividad dirgida 1](ad1.md)
+-[Actividad dirigada 2](ad2.md)
+ 
