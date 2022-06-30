@@ -26,6 +26,3 @@ Puntos a resaltar del reportaje:
 - En 2021 adquirió __nuevos préstamos por $802 millones__.
 - Con ***Ejército irrumpió en el parlamento salvadoreño*** para presionar a los diputados a que le aprobaran un préstamo que utilizaría en materia de seguridad.
 
-##  Lista de actividades dirigidas ##
-- [Actividad dirgida 1](ad1.md)
--  [Actividad dirigada 2](ad2.md)
