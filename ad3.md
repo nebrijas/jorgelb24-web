@@ -1,6 +1,6 @@
 # Actividad dirigida 3
 
-Esta actividad consite en hacer un ejercicio de programación literaria aprovechando un código que hemos usado en programación con python, donde realizameros *web scrapping*
+Esta actividad consite en hacer un ejercicio de programación literaria aprovechando un código que hemos usado en programación con python donde realizameros *web scrapping*
     "A continuación pongo el código fuente"
 
 ## Instalar librerías
